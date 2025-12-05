@@ -15002,8 +15002,8 @@ Section Head
   flex-wrap: wrap;
 }
 .social-link a {
-  width: 40px;
-  height: 40px;
+  width: 50px;
+  height: 50px;
   color: var(--color-heading);
   display: inline-flex;
   position: relative;
@@ -22256,7 +22256,7 @@ body.loaded {
 .service-card-v2 .service-card-num {
   color: var(--color-heading);
   font-family: var(--font-primary);
-  font-size: 24px;
+  font-size: 27px;
   font-weight: 700;
   line-height: 30px;
   margin-bottom: 0;
@@ -22267,7 +22267,7 @@ body.loaded {
 .service-card-v2 .service-para {
   color: var(--color-gray);
   font-family: var(--font-secondary);
-  font-size: 16px;
+  font-size: 17px;
   font-weight: 400;
   line-height: 26px;
   margin-top: 22px;
@@ -26782,7 +26782,7 @@ body.tmp-white-version.index-8 .tmp-contact-about-inner .info-box {
 .copyright-area-one .main-wrapper .copy-right-para {
   color: var(--color-gray);
   font-family: var(--font-secondary);
-  font-size: 14px;
+  font-size: 17px;
   font-weight: 400;
   line-height: 30px;
   margin-bottom: 0;
